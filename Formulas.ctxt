@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Formulas
+comment0.text=\n\ Sorry\ I\ did\ not\ notice\ the\ requirement\ for\ the\ names\ of\ the\ classes\ until\n\ I\ finished,\ so\ the\ name\ of\ each\ class\ is\ different\ from\ the\ problem\ set.\n
+comment1.params=a\ b\ c
+comment1.target=OrderedPair\ quadr(double,\ double,\ double)
+comment2.params=xy1\ xy2
+comment2.target=double\ slope(OrderedPair,\ OrderedPair)
+comment3.params=yx1\ yx2
+comment3.target=OrderedPair\ mid(OrderedPair,\ OrderedPair)
+comment4.params=firnum\ rate\ terms
+comment4.target=double\ SeriesSum(double,\ double,\ int)
+comment5.params=anum\ r\ k
+comment5.target=double\ SeriesProduct(double,\ double,\ int)
+comment6.params=sides
+comment6.target=int\ rollDie(int)
+numComments=7
